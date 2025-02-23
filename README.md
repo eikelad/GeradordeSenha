@@ -5,8 +5,11 @@ Este é um projeto **React** que gera senhas aleatórias de maneira rápida e se
 ## 🚀 Funcionalidades
 
 ✅ Gerar senhas seguras com tamanhos personalizados
+
 ✅ Interface responsiva e intuitiva
+
 ✅ Controle deslizante para definir o tamanho da senha (8 a 30 caracteres)
+
 ✅ Botão para copiar a senha gerada
 
 ## 🎨 Tecnologias Utilizadas
@@ -17,7 +20,7 @@ Este é um projeto **React** que gera senhas aleatórias de maneira rápida e se
 
 ## 📸 Captura de Tela
 
-![Preview do Projeto](./screenshot.png)
+![Preview do Projeto](./capturageradordesenha.png)
 
 ## ⚙️ Como Rodar o Projeto
 
